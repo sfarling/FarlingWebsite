@@ -3,18 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FarlingWebsite", ".", "{B488C66A-F8F3-4248-94AC-B1EA2D73D008}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FarlingWebsite", ".", "{09AB668C-81B7-4167-AE0F-072D22D40C00}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51188"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Google Drive\repos\FarlingWebsite\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documents\repos\FarlingWebsite\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51188\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_51188"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\Google Drive\repos\FarlingWebsite\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documents\repos\FarlingWebsite\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51188\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
@@ -28,13 +28,13 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B488C66A-F8F3-4248-94AC-B1EA2D73D008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B488C66A-F8F3-4248-94AC-B1EA2D73D008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB668C-81B7-4167-AE0F-072D22D40C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB668C-81B7-4167-AE0F-072D22D40C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E92E3615-A5CD-4D42-9AFE-4E6E3AFD2411}
+		SolutionGuid = {05C88FA1-EDDB-47E8-A27D-9C50B5135DA5}
 	EndGlobalSection
 EndGlobal
