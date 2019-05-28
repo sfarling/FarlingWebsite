@@ -1,7 +1,7 @@
 document.write("<h4>Quick Links</h4>");
 document.write("Blogs");
-document.write('<li><a href="http://www.drakemag.com/phpBB3/index.php" target="_blank">the Drake</a></li>')
-document.write('<li><a href="http://www.themeateater.com/" target="_blank">Meateater</a></li>')
+//document.write('<li><a href="http://www.drakemag.com/phpBB3/index.php" target="_blank">the Drake</a></li>')
+//document.write('<li><a href="http://www.themeateater.com/" target="_blank">Meateater</a></li>')
 //document.write('<li><a href="http://www.ginkandgasoline.com/" target="_blank">Gink and Gasoline</a></li>')
 document.write('<li><a href="http://flyfishyellowstone.blogspot.com/" target="_blank">Fly Fish Yellowstone</a></li>')
 //document.write('<li><a href="http://www.moldychum.com/" target="_blank">Moldy Chum</a></li>')
