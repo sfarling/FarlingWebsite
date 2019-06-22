@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="f1305a3d-8e0b-6c45-a6ce-303358cb569b" kpf_version="5" name="Farling Website.komodoproject">
 <preference-set idref="f1305a3d-8e0b-6c45-a6ce-303358cb569b" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>
