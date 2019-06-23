@@ -1,9 +1,9 @@
 document.write("<h4>Quick Links</h4>");
-document.write("Blogs");
+document.write("Social");
 //document.write('<li><a href="http://www.drakemag.com/phpBB3/index.php" target="_blank">the Drake</a></li>')
 //document.write('<li><a href="http://www.themeateater.com/" target="_blank">Meateater</a></li>')
 //document.write('<li><a href="http://www.ginkandgasoline.com/" target="_blank">Gink and Gasoline</a></li>')
-document.write('<li><a href="http://flyfishyellowstone.blogspot.com/" target="_blank">Fly Fish Yellowstone</a></li>')
+//document.write('<li><a href="http://flyfishyellowstone.blogspot.com/" target="_blank">Fly Fish Yellowstone</a></li>')
 //document.write('<li><a href="http://www.moldychum.com/" target="_blank">Moldy Chum</a></li>')
 document.write('<li><a href="http://www.facebook.com/" target="_blank">FaceBook</a></li>')
 document.write('<li><a href="http://www.linkedin.com/home" target="_blank">LinkedIn</a></li>')
@@ -17,6 +17,7 @@ document.write('<li><a href="http://cpw.state.co.us/" target="_blank">COPW</a></
 document.write('<li><a href="https://wgfd.wyo.gov/" target="_blank">WGFG</a></li>')
 
 document.write("Gauges");
+document.write('<li><a href="https://dwr.state.co.us/surfacewater/default.aspx" target="_blank">CO DWR</a></li>')
 document.write('<li><a href="http://waterdata.usgs.gov/co/nwis/current/?type=flow" target="_blank">CO gauges</a></li>')
 document.write('<li><a href="http://waterdata.usgs.gov/wy/nwis/current/?type=flow" target="_blank">WY gauges</a></li>')
 document.write('<li><a href="http://waterdata.usgs.gov/mt/nwis/current/?type=flow" target="_blank">MT gauges</a></li>')
