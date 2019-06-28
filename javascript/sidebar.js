@@ -25,6 +25,8 @@ document.write('<li><a href="http://waterdata.usgs.gov/id/nwis/current/?type=flo
 document.write('<li><a href="http://www.americanwhitewater.org/content/River/state-summary/state/CO/" target="_blank">CO Whitewater</a></li>')
 document.write('<li><a href="http://www.americanwhitewater.org/content/River/state-summary/state/WY/" target="_blank">WY Whitewater</a></li>')
 document.write('<li><a href="http://www.americanwhitewater.org/content/River/state-summary/state/ID/" target="_blank">ID Whitewater</a></li>')
+document.write('<li><a href="http://www.usbr.gov/gp/lakes_reservoirs/colorado_lakes.htm" target="_blank">CO Reclamation Data</a> </li>')
+document.write('<li><a href="http://www.usbr.gov/gp/lakes_reservoirs/wyoming_lakes.html" target="_blank">WY Reclamation Data</a> </li>')
 
 document.write("Weather & Travel");
 document.write('<li><a href="https://map.wyoroad.info/wtimap/index.html" target="_blank">WDOT</a></li>')
