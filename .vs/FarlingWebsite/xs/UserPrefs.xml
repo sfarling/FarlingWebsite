@@ -1,9 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+    <Files>
+      <File FileName="index.html" Line="118" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FarlingWebsite" expanded="True" selected="True" />
+          <Node name="FarlingWebsite" expanded="True">
+            <Node name="FarlingWebsite" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
