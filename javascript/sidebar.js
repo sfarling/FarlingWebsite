@@ -47,9 +47,8 @@ document.write('<li><a href="http://www.coppercolorado.com/" target="_blank">Cop
 document.write('<li><a href="http://www.eldora.com/" target="_blank">Eldora Mtn</a></li>')
 
 document.write("Finance");
-document.write('<li><a href="https://invest.ameritrade.com/grid/p/login?cid=INSCTALOGIN0218" target="_blank">AmeriTrade</a></li>')
 document.write('<li><a href="https://secure.ally.com" target="_blank">Ally Bank</a></li>')
-document.write('<li><a href="https://home.barclaycardus.com/" target="_blank">Barclay Card</a></li>')
+document.write('<li><a href="https://secure07c.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index" target="_blank">Chase</a></li>')
 document.write('<li><a href="https://www.municipalonlinepayments.com/erieco/login?returnUrl=%2Ferieco%2Futilities" target="_blank">Erie Water Bill</a></li>')
 document.write('<li><a href="https://nb.fidelity.com/public/nb/401k/home" target="_blank">Fidelity (401K)</a></li>')
 
